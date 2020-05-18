@@ -1,0 +1,27 @@
+body{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #afafaf;
+}
+.coll-menu{
+    background-color: #222;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.nav-item , .nav-link{
+    color: white !important;
+    padding-left: 5px !important;
+}
+section{
+    background-color: #cfcfcf;
+    padding: 10px 5px;
+    color: #222;
+    margin: 20px 0;
+}
+section > h3{
+    font-weight: 500;
+}
+div > h2{
+    font-weight: 600;
+    margin: 15px 0 10px;
+}
